@@ -91,6 +91,8 @@ const URL_SYSINFO = mkA("http://sysinfo.d0.se", "Nic Wilson");
 const db = [
 	new dbEntry(DBT_GAME,1, "Air Ace II",         "SEUCK","","PD",                 "1989", 0, "Loading takes very long."),
 	new dbEntry(DBT_GAME,1, "Asteroids",          "Vertical Developments","","PD", "1979", 0, ""),
+	new dbEntry(DBT_GAME,1, "DeuterosDisk1",          "Vertical Developments","","PD", "1979", 0, ""),
+
 	new dbEntry(DBT_GAME,1, "BlockySkies",        URL_ENABLE_SOFTWARE,"","FW",     "2016", 0, ""),
 	new dbEntry(DBT_GAME,1, "Crazy Sue",          "Jumpshoe,Hironymous","","PD",   "1991", 0, "Loading can take some time."),
 	new dbEntry(DBT_GAME,1, "Deluxe Galaga 2.4",  "Edgar Vigdal","","FW",          "1994", DBF_COL, ""),
